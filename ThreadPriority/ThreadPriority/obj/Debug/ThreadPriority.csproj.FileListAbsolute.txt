@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe.config
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.pdb
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.frmTrackThread.resources
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.Properties.Resources.resources
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.exe
+C:\Users\ADMIN\source\Projects\Leviste\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.pdb
