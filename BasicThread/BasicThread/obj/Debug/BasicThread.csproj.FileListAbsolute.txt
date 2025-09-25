@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\bin\Debug\BasicThread.exe
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\bin\Debug\BasicThread.pdb
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\obj\Debug\BasicThread.FrmBasicThread.resources
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\obj\Debug\BasicThread.Properties.Resources.resources
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\obj\Debug\BasicThread.exe
+C:\Users\ADMIN\source\Projects\Leviste\BasicThread\BasicThread\obj\Debug\BasicThread.pdb
