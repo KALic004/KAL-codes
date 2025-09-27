@@ -8,6 +8,7 @@ namespace Registration
 {
     class StudentInformationClass
     {
+        //these declared variables are to set value to our form confirmation levels to be print
         public static string SetFullName;
         public static string SetProgram;
         public static string SetGender;

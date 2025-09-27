@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+//This is a Thread tracking program
+//na nagdedemonstrate paano ang multiple threads magrun at the same time 
+//and paano naaffectohan ang execution when may priority levels 
 namespace ThreadPriority
 {
     class MyThreadClass
