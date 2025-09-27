@@ -50,7 +50,7 @@ namespace ThreadPriority
             threadC.Join();
             threadD.Join();
 
-            //After matapos ang Thread1, Thread 2 naman
+            //After execution ng Thread1, Thread 2 naman
             //same thing like Thread1 deniclare natin ang 4 threads
             //now with the method of Thread2 function
             threadA = new Thread(new ThreadStart(MyThreadClass.Thread2));
@@ -81,7 +81,7 @@ namespace ThreadPriority
             threadC.Join();
             threadD.Join();
 
-            //After matapos ang Thread2 execution, mag chachange ang label status to End of Thread
+            //After execution ng Thread2, mag chachange ang label status to End of Thread
             Console.WriteLine("-End of Thread-");
             lblStatus.Text = "-End of Thread-";
         }
