@@ -14,7 +14,7 @@ namespace ThreadPriority
 {
     public partial class frmTrackThread: Form
     {
-        //We initalize four threads
+        //We initalize four threads:
         Thread threadA, threadB, threadC, threadD;
 
         public frmTrackThread()
