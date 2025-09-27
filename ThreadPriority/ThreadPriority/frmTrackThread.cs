@@ -80,7 +80,7 @@ namespace ThreadPriority
             threadC.Join();
             threadD.Join();
 
-            //After matapos ang Thread2, mag chachange ang label status to End of Thread
+            //After matapos ang Thread2 execution, mag chachange ang label status to End of Thread
             Console.WriteLine("-End of Thread-");
             lblStatus.Text = "-End of Thread-";
         }
