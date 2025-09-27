@@ -22,6 +22,7 @@ namespace ThreadPriority
             InitializeComponent();
         }
 
+        //then dito sa click event
         private void button1_Click(object sender, EventArgs e)
         {
             //we have declared the 4 threads
